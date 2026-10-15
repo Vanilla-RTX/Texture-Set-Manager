@@ -414,7 +414,7 @@ public sealed partial class MainWindow : Window
                 linksHeader: "Report using one of the following methods:",
                 links: new[]
                 {
-                    new ReportDialog.Link("Create an issue on GitHub", "https://github.com/Cubeir/Texture-Set-Manager/issues"),
+                    new ReportDialog.Link("Create an issue on GitHub", "https://github.com/vanilla-rtx/Texture-Set-Manager/issues"),
                     new ReportDialog.Link("Create a post on the Vanilla RTX Discord Server", "https://discord.gg/A4wv4wwYud"),
                 },
                 contentMaxHeight: 320);

@@ -19,8 +19,8 @@ Feature-rich automation tool for Minecraft Bedrock Edition resource pack authors
   <a href="https://ko-fi.com/cubeir">
     <img src="https://img.shields.io/badge/-support%20my%20work-FF5A16?style=flat-square&logo=ko-fi&logoColor=FF5A16&labelColor=555555"/>
   </a>
-  <img src="https://img.shields.io/github/repo-size/Cubeir/Texture-Set-Manager?style=flat-square&color=00A560&label=Repo%20Size&cacheSeconds=3600"/>
-  <img src="https://img.shields.io/github/last-commit/Cubeir/Texture-Set-Manager?style=flat-square&color=006DB2&label=Last%20Commit&cacheSeconds=1800"/>
+  <img src="https://img.shields.io/github/repo-size/vanilla-rtx/Texture-Set-Manager?style=flat-square&color=00A560&label=Repo%20Size&cacheSeconds=3600"/>
+  <img src="https://img.shields.io/github/last-commit/vanilla-rtx/Texture-Set-Manager?style=flat-square&color=006DB2&label=Last%20Commit&cacheSeconds=1800"/>
 </p>
 
 # Overview

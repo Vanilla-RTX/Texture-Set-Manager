@@ -1217,9 +1217,9 @@
     <AppxPackageDir>C:\Users\Administrator\Desktop\</AppxPackageDir>
     <PackageCertificateThumbprint>1426D6CA9C80678225E501154069D87676C19DC6</PackageCertificateThumbprint>
     <SignAssembly>False</SignAssembly>
-    <Copyright>https://github.com/Cubeir/Texture-Set-Manager/blob/master/LICENSE.txt</Copyright>
-    <PackageProjectUrl>https://github.com/Cubeir/Texture-Set-Manager</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Cubeir/Texture-Set-Manager</RepositoryUrl>
+    <Copyright>https://github.com/vanilla-rtx/Texture-Set-Manager/blob/master/LICENSE.txt</Copyright>
+    <PackageProjectUrl>https://github.com/vanilla-rtx/Texture-Set-Manager</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vanilla-rtx/Texture-Set-Manager</RepositoryUrl>
     <AppxBundlePlatforms>x86|x64|arm64</AppxBundlePlatforms>
     <AssemblyName>Texture Set Manager</AssemblyName>
     <AssemblyOriginatorKeyFile>CubeirSoftware.pfx</AssemblyOriginatorKeyFile>
